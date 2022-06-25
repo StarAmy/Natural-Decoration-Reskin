@@ -1,0 +1,255 @@
+{
+    "Format": "1.23.0",
+     "ConfigSchema": {
+         "Reskin Objects": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+      },
+    "Changes": [
+         {
+        "Action": "EditImage",
+         "Target": "LooseSprites/AquariumFish",
+          "FromFile": "assets/amydecorations.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 480, "Height": 96 }, 
+          "ToArea": { "X": 0, "Y": 5280, "Width": 480, "Height": 96 },
+     },
+    {
+      "Action": "EditData",
+      "Target": "Data/AquariumFish",
+      "Entries": {
+        "90": "2200/static",
+        "88": "2201/static",
+        "259": "2202/static",
+        "404": "2203/static",
+        "281": "2204/static",
+        "257": "2205/static",
+        "420": "2206/static",
+        "422": "2207/static",
+        "851": "2208/static",
+        "829": "2209/static",
+        "421": "2220/static",
+        "18": "2221/static",
+        "22": "2222/static",
+        "597": "2223/static",
+        "418": "2224/static",
+        "593": "2225/static",
+        "283": "2226/static",
+        "595": "2227/static",
+        "402": "2228/static",
+        "591": "2230/static",
+        "376": "2229/static",
+    }
+    },
+    {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/morel.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 272, "Y": 160, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+      {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/coconut.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 256, "Y": 48, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+      {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/cactus_fruit.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 288, "Y": 48, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+      {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/fiddlehead.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 304, "Y": 160, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+      {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/common_mushroom.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 320, "Y": 256, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/chanterelle.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 272, "Y": 176, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/red_mushroom.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 192, "Y": 272, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/purple_mushroom.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 224, "Y": 272, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/magma_cap.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 176, "Y": 560, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/ginger.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 208, "Y": 544, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/sunflower.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 208, "Y": 272, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/dandelion.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 352, "Y": 0, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+  {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/daffodil.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 288, "Y": 0, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/blue_jazz.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 336, "Y": 384, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/tulip.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 240, "Y": 384, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/crocus.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 160, "Y": 272, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/poppy.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 256, "Y": 240, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/holly.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 304, "Y": 176, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/summer_spangle.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 272, "Y": 384, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+       {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/sweet_pea.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 288, "Y": 256, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+      {
+        "Action": "EditImage",
+         "Target": "Maps/SpringObjects",
+          "FromFile": "assets/fairy_rose.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+          "ToArea": { "X": 304, "Y": 384, "Width": 16, "Height": 16 },
+          "When":{ 
+                  "Reskin Objects": "True"
+              }
+     },
+   ]
+}

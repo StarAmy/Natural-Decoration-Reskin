@@ -1,0 +1,11 @@
+{
+  "Name": "[CP] Natural Terrarium Project - Random Decoration Reskin",
+  "Author": "StarAmy",
+  "Version": "1.0",
+  "Description": "Adds fish tank animations for a number of flowers and foraging goods, with optional object reskin.",
+  "UniqueID": "StarAmy.DecorationReskin",
+   "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   }
+}
